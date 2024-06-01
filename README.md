@@ -3,7 +3,7 @@ In this project, you will perform transfer learning to train the CIFAR-10 datase
 
 ## 📋 Parameters
 - Define the batch size
-- Define the class (category) names\
+- Define the class (category) names
   
 ## 📌 Features
 - 🧩 Utilizes transfer learning with the ResNet50 model
