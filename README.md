@@ -1,5 +1,5 @@
 # 🦾 Transfer Learning with ResNet50 on CIFAR-10
-In this project, you will perform transfer learning to train the CIFAR-10 dataset on the ResNet50 model available in Keras.
+In this project, we will perform transfer learning to train the CIFAR-10 dataset on the ResNet50 model available in Keras.
 
 ## 📋 Parameters
 - Define the batch size
